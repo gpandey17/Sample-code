@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="JspConfig_EVE"
+  id="myeclipse.1536333113299"
+  context-root="/JspConfig_EVE"
+  j2ee-spec="5.0"
+  archive="JspConfig_EVE.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+

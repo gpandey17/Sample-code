@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="Cookies_EVE"
+  id="myeclipse.1536076214133"
+  context-root="/Cookies_EVE"
+  j2ee-spec="5.0"
+  archive="Cookies_EVE.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
